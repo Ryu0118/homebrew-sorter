@@ -5,7 +5,7 @@ class Sorter < Formula
   desc "Swift CLI tool to reorder enum cases, imports, etc."
   homepage "https://github.com/Ryu0118/Sorter"
   url "https://github.com/Ryu0118/Sorter/releases/download/0.1.1/sorter"
-  sha256 "476cef1c9c326169718e744fde9ec1b091c6b57a578e68c287191e75508d4964"
+  sha256 "973d161d9429ed9f0388513234f9cfa3dbc17e5f9526bc9e6293dfad13b9a8ab"
   license "MIT"
 
   # depends_on "cmake" => :build
